@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\PushDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mipush_logo.png",
+        "source": "D:\\AndroidStudioProjects\\PushDemo\\app\\src\\main\\res\\drawable-mdpi\\mipush_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PushDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\PushDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

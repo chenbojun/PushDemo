@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\PushDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\all_button_only_bg_2.9.png",
+        "source": "D:\\AndroidStudioProjects\\PushDemo\\app\\src\\main\\res\\drawable-xhdpi\\all_button_only_bg_2.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PushDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\all_button_only_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\PushDemo\\app\\src\\main\\res\\drawable-xhdpi\\all_button_only_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PushDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_tip.png",
+        "source": "D:\\AndroidStudioProjects\\PushDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_tip.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PushDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mipush_logo.png",
+        "source": "D:\\AndroidStudioProjects\\PushDemo\\app\\src\\main\\res\\drawable-xhdpi\\mipush_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PushDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\PushDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

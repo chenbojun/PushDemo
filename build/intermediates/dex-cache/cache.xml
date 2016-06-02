@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\PushDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3e71aeb695a675994c684d6e41b0e364d6501040">
+        <dex dex="D:\AndroidStudioProjects\PushDemo\app\build\intermediates\pre-dexed\debug\instant-run_6a32e9e758d5f948b271f2f5270d1fea2bd230eb.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\PushDemo\app\libs\MiPush_SDK_Client_2_2_21.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b951c52fa0994d508f5514292fbe040ea4a3b8e8">
+        <dex dex="D:\AndroidStudioProjects\PushDemo\app\build\intermediates\pre-dexed\debug\MiPush_SDK_Client_2_2_21_ea95b0d528c5830e7d62dcee0e7ca48bb5efdbb3.jar" />
+    </item>
+    <item
+        jar="D:\Andoird\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\AndroidStudioProjects\PushDemo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_c2a40ea97f55ad9df1627e388a0414315edb6117.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\PushDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f81424ac943fe4af90dd73d50d41c4c6c9448f34">
+        <dex dex="D:\AndroidStudioProjects\PushDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1a37abe62625a0f0be78bc28dbbcabd01e719c92.jar" />
+    </item>
+
+</items>

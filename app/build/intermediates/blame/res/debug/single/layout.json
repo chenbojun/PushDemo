@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\PushDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\PushDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PushDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_time_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\PushDemo\\app\\src\\main\\res\\layout\\set_time_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\PushDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_notify.xml",
+        "source": "D:\\AndroidStudioProjects\\PushDemo\\app\\src\\main\\res\\layout\\custom_notify.xml"
+    }
+]
